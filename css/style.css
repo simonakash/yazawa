@@ -1,0 +1,32 @@
+@font-face {
+	font-family: "Knockout HTF47-Bantamweight";
+	font-family: "Knockout HTF48-Featherweight";
+	src: url("font/Knockout-HTF47-Bantamweight.otf"),
+		url("font/Knockout-HTF48-Featherweight.otf");
+  }
+ h1{
+	font-family: "Knockout HTF47-Bantamweight";
+	letter-spacing: 10px;
+	font-size:200px;
+ }
+ .lh-8{
+	line-height: 0.8;
+ }
+ h3{
+	font-family: "Knockout HTF48-Featherweight";
+ }
+ .text-gray-400{
+	 color: #404040 !important;
+ }
+ .text-success{
+	 color: #00B174 !important;
+ }
+ .bc{
+	 border-color: #404040 !important;
+ }
+ .top-n-auto{
+	top: -57px;
+ }
+ .bottom-n-auto{
+	bottom: -64px;
+ }
